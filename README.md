@@ -1,6 +1,6 @@
-# HPC / DRI Carbon Emissions Tools Evaluation
+# User Carbon Footprint Tools Evaluation
 
-*A comprehensive community review of carbon emission tracking tools for digital research infrastructure. For full evaluation comments and remarks, please view or download the `tools-comparison.csv` file in this repository.*
+*A review of carbon footprint tools for digital research infrastructure. For full evaluation comments and remarks, please view or download the `tools-comparison.csv` file in this repository.*
 
 ## 1. Technical Overview
 | Tool | Primary use case | Language / interface | Scheduler / platform |
