@@ -29,19 +29,3 @@
 | **CarbonTracker** | CLI wrap / SLURM-aware | Location-aware | No | CLI wrap only |
 | **nvidia-co2** | None | Static IP geolocation | No | GPU-only |
 | **nf-co2footprint** | Launch command flag | Real-time via API | Yes | Yes |
-
-## 3. Evaluation Scores
-*Scores assigned by community reviewers (Irufan, Jiahong, Sudha, Dimitrios).*
-
-| Tool | Energy | Carbon Int. | Scope 3 | Sched. Aware | Lang. Agnostic | Low Overhead | Usability | Active Dev |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **GA4HPC** | 2 | 1 | 2 | 3 | 3 | 3 | 1 | 2 |
-| **ARCHER2 Tools** | 2 | 3 | 2 | 3 | 3 | 3 | 2 | 1 |
-| **CodeCarbon** | 3 | 2 | 2 | 2 | 3 | 3 | 3 | 3 |
-| **CEEMS** | 3 | 2 | 3 | 3 | 1 | 2 | 2 | 3 |
-| **GUILT** | 2 | 3 | 2 | 3 | 3 | 3 | 2 | 2 |
-| **GRACE** | 2 | 3 | 2 | 3 | 3 | 3 | 2 | 2 |
-| **Carbon (Imperial)**| 2 | 3 | 2 | 3 | 3 | 3 | 2 | 3 |
-| **CarbonTracker** | 3 | 3 | 1 | 3 | 3 | 3 | 3 | 3 |
-| **nvidia-co2** | 3 | 1 | 1 | 1 | 3 | 3 | 1 | 1 |
-| **nf-co2footprint** | 2 | 2 | 1 | 3 | 3 | 3 | 3 | 3 |
